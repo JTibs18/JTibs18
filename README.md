@@ -14,6 +14,20 @@
     <p> 📜 Bachelor of Computer Science Honours, Minor in Business and Specialization in Mobile Computing</p>
   </div>
 
+<h2> 🔗 Connect with me! </h2>
+<a href="https://www.linkedin.com/in/jessica-tiberio" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a> 
+<a href="https://medium.com/@jessicatiberio" target="_blank">
+  <img alt="Medium" src="https://img.shields.io/badge/medium-ffffff.svg?&style=for-the-badge&logo=medium&logoColor=black" />
+</a>
+<a href="https://github.com/JessicaTiberio" target="_blank">
+  <img alt="Github" src="https://img.shields.io/badge/GitHub-000000.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+</a> 
+<a href="https://leetcode.com/JTibs18/" target="_blank">
+  <img alt="Leetcode" src="https://img.shields.io/badge/Leetcode-f89f1b.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />
+</a> 
+
 <h2> ⚙ Tech Stack </h2>
 <div>
   <img alt="Java" src="https://img.shields.io/badge/-Java-61D12C?style=flat-square&logo=java&logoColor=white" />
@@ -50,16 +64,7 @@
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-D9732A?style=flat-square&logo=postman&logoColor=white" />
 </div>
 
-<h2> 🔗 Connect with me! </h2>
-<a href="https://www.linkedin.com/in/jessica-tiberio" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a> 
-<a href="https://medium.com/@jessicatiberio" target="_blank">
-  <img alt="Medium" src="https://img.shields.io/badge/medium-ffffff.svg?&style=for-the-badge&logo=medium&logoColor=black" />
-</a>
-<a href="https://leetcode.com/JTibs18/" target="_blank">
-  <img alt="Leetcode" src="https://img.shields.io/badge/Leetcode-f89f1b.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />
-</a> 
-<a href="https://github.com/JessicaTiberio" target="_blank">
-  <img alt="Github" src="https://img.shields.io/badge/GitHub-000000.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-</a> 
+
+<h2> 📊 Github Stats</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=jtibs18&hide=stars,contribs&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="jtibs github stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtibs18&theme=transparent&hide_progress=true" alt="jtibs language stats" />
