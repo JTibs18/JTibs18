@@ -57,7 +57,7 @@
 <a href="https://medium.com/@jessicatiberio" target="_blank">
   <img alt="Medium" src="https://img.shields.io/badge/medium-ffffff.svg?&style=for-the-badge&logo=medium&logoColor=black" />
 </a>
-<a href="https://github.com/JTibs18" target="_blank">
+<a href="https://leetcode.com/JTibs18/" target="_blank">
   <img alt="Leetcode" src="https://img.shields.io/badge/Leetcode-f89f1b.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />
 </a> 
 <a href="https://github.com/JessicaTiberio" target="_blank">
