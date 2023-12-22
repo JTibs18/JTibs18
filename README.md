@@ -55,11 +55,11 @@
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a> 
 <a href="https://medium.com/@jessicatiberio" target="_blank">
-  <img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+  <img alt="Medium" src="https://img.shields.io/badge/medium-ffffff.svg?&style=for-the-badge&logo=medium&logoColor=black" />
 </a>
 <a href="https://github.com/JTibs18" target="_blank">
-  <img alt="Leetcode" src="https://img.shields.io/badge/Leetcode-000000.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img alt="Leetcode" src="https://img.shields.io/badge/Leetcode-f89f1b.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />
 </a> 
-<a href="https://github.com/JTibs18" target="_blank">
-  <img alt="Github" src="https://img.shields.io/badge/GitHub-034AFF.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+<a href="https://github.com/JessicaTiberio" target="_blank">
+  <img alt="Github" src="https://img.shields.io/badge/GitHub-000000.svg?&style=for-the-badge&logo=Github&logoColor=white" />
 </a> 
