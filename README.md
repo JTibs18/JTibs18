@@ -64,7 +64,14 @@
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-D9732A?style=flat-square&logo=postman&logoColor=white" />
 </div>
 
-
-<h2> 📊 GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=jtibs18&hide=stars,contribs&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="jtibs github stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtibs18&theme=transparent&hide_progress=true" alt="jtibs language stats" />
+<details>
+  <summary>
+    <h2> 📊 GitHub Stats</h2>
+  </summary>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=jtibs18&hide=stars,contribs&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="jtibs github stats" />
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtibs18&theme=transparent&hide_progress=true" alt="jtibs language stats" />
+  </div>
+</details>
