@@ -3,7 +3,7 @@
   Hi there, I'm Jess! 
 </h1> 
 <p>
-  Welcome to my github profile. </p>
+  Welcome to my GitHub profile. </p>
 <p>I'm a detail-oriented problem solver with an entrepreneurial spirit that takes pride in being a reliable and responsible code contributor who strives to achieve efficient and effective solutions.</p>
 <p>An avid learner, seeking to improve technical skills as a software engineer while maintaining ethical practices.</p>
 
@@ -65,6 +65,6 @@
 </div>
 
 
-<h2> 📊 Github Stats</h2>
+<h2> 📊 GitHub Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=jtibs18&hide=stars,contribs&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="jtibs github stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtibs18&theme=transparent&hide_progress=true" alt="jtibs language stats" />
