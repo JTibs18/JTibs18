@@ -64,17 +64,13 @@
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-D9732A?style=flat-square&logo=postman&logoColor=white" />
 </div>
 
-<details>
-  <summary>
-    <h2> ⌨️ Recent Activity </h2> 
-  </summary>
+<h2> ⌨️ Recent Activity </h2> 
   <div>
     <!--START_SECTION:activity-->
 1. 💪 Opened PR [#23](https://github.com/lmoroney/tfbook/pull/23) in [lmoroney/tfbook](https://github.com/lmoroney/tfbook)
 <!--END_SECTION:activity-->
   </div>
-</details>
-<details>
+<details open>
   <summary>
     <h2> 📊 GitHub Stats</h2>
   </summary>
@@ -85,3 +81,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtibs18&theme=transparent&hide_progress=true" alt="jtibs language stats" />
   </div>
 </details>
+
+<h2> 🏆 GitHub Trophies </h2>
+  <div>
+    <img src="https://github-profile-trophy.vercel.app/?username=jtibs18&theme=onedark&no-bg=true&no-frame=true">
+  </div>
