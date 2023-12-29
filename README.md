@@ -66,6 +66,14 @@
 
 <details>
   <summary>
+    <h2> ⌨️ Recent Activity </h2> 
+  </summary>
+  <div>
+    <!--START_SECTION:activity-->
+  </div>
+</details>
+<details>
+  <summary>
     <h2> 📊 GitHub Stats</h2>
   </summary>
   <div>
@@ -73,14 +81,5 @@
   </div>
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtibs18&theme=transparent&hide_progress=true" alt="jtibs language stats" />
-  </div>
-</details>
-
-<details>
-  <summary>
-    <h2> 📝 Recent Activity </h2> 
-  </summary>
-  <div>
-    <!--START_SECTION:activity-->
   </div>
 </details>
