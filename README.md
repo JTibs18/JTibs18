@@ -70,6 +70,8 @@
   </summary>
   <div>
     <!--START_SECTION:activity-->
+1. 💪 Opened PR [#23](https://github.com/lmoroney/tfbook/pull/23) in [lmoroney/tfbook](https://github.com/lmoroney/tfbook)
+<!--END_SECTION:activity-->
   </div>
 </details>
 <details>
