@@ -12,6 +12,7 @@
     <p> 🔍 Currently seeking full stack, frontend or backend software engineering positions</p>
     <p> 🏫 Graduated from Carleton University in 2022 with High Distinction</p>
     <p> 📜 Bachelor of Computer Science Honours, Minor in Business and Specialization in Mobile Computing</p>
+    <p> 🥅 2024 Goal: Write code every day! </p>
   </div>
 
 <h2> 🔗 Connect with me! </h2>
