@@ -9,7 +9,7 @@
 
 <h2> 😊 About Me </h2>
   <div>
-    <p> 🔍 Currently seeking full stack, frontend or backend software engineering positions</p>
+    <p> 🎵 Founding Full Stack Developer @ Staccato </p>
     <p> 🏫 Graduated from Carleton University in 2022 with High Distinction</p>
     <p> 📜 Bachelor of Computer Science Honours, Minor in Business and Specialization in Mobile Computing</p>
     <p> 🥅 2024 Goal: Write code every day! </p>
@@ -31,26 +31,29 @@
 
 <h2> ⚙ Tech Stack </h2>
 <div>
-  <img alt="Java" src="https://img.shields.io/badge/-Java-61D12C?style=flat-square&logo=java&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-61D12C?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-4CBF30?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-37AD34?style=flat-square&logo=kotlin&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-229B38?style=flat-square&logo=Python&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-0B893E?style=flat-square&logo=typescript&logoColor=white" />
   
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-36AE99?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-31A99D?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/-Figma-2CA4A1?style=flat-square&logo=Figma&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-279FA5?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Jest" src="https://img.shields.io/badge/-Jest-229AA9?style=flat-square&logo=jest&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-1D95AD?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="Pug" src="https://img.shields.io/badge/-Pug-1890B1?style=flat-square&logo=pug&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-138BB5?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-0C7FC0?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-30A3B4?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-2C9FB1?style=flat-square&logo=Figma&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-289BAE?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Jest" src="https://img.shields.io/badge/-Jest-2497AB?style=flat-square&logo=jest&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-2093A8?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="Pug" src="https://img.shields.io/badge/-Pug-1C8FA5?style=flat-square&logo=pug&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-188BA2?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-14879F?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwindcss-10839C?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img alt="Vue" src="https://img.shields.io/badge/-Vue-0C7FC0?style=flat-square&logo=vuedotjs&logoColor=white" />
   
   <img alt="Django" src="https://img.shields.io/badge/-Django-5274CE?style=flat-square&logo=django&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/-Express-5957DA?style=flat-square&logo=Express&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-603AE6?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-671DF2?style=flat-square&logo=next.js&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-6A5CF2?style=flat-square&logo=Express&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-6445E9?style=flat-square&logo=Flask&logoColor=white"/>
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-5E2EE0?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-5817D7?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-7000FF?style=flat-square&logo=Node.js&logoColor=white" />
   
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-9535BA?style=flat-square&logo=pandas&logoColor=white" />
