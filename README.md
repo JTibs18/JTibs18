@@ -12,7 +12,7 @@
     <p> 🎵 Founding Full Stack Developer @ Staccato </p>
     <p> 🏫 Graduated from Carleton University in 2022 with High Distinction</p>
     <p> 📜 Bachelor of Computer Science Honours, Minor in Business and Specialization in Mobile Computing</p>
-    <p> 🥅 2024 Goal: Write code every day! </p>
+    <p> 🥅 2025 Goals: Master C++ & expand knowledge in AI</p>
   </div>
 
 <h2> 🔗 Connect with me! </h2>
