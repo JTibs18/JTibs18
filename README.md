@@ -61,16 +61,16 @@
 
   <br>
 
+  <img alt="Numpy" src="https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas&logoColor=white" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img alt="Numpy" src="https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy&logoColor=white" />
 
   <br>
 
+  <img alt="Firestore" src="https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgreSQL&logoColor=white" />
   <img alt="Sqlite" src="https://img.shields.io/badge/-Sqlite-black?style=flat-square&logo=sqlite&logoColor=white" />
-  <img alt="Firestore" src="https://img.shields.io/badge/-firestore-black?style=flat-square&logo=sqlite&logoColor=white" />
 
   <br>
 
