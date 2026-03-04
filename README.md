@@ -29,7 +29,7 @@
 
 <h2> ⚙ Tech Stack </h2>
 <div>
-  <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00000000?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-black?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin&logoColor=white" />
@@ -42,7 +42,7 @@
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest&logoColor=white" />
-  <img alt="JUCE" src="https://img.shields.io/badge/-juce-black?style=flat-square&logo=jest&logoColor=white" />
+  <img alt="JUCE" src="https://img.shields.io/badge/-JUCE-black?style=flat-square&logo=JUCE&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Pug" src="https://img.shields.io/badge/-Pug-black?style=flat-square&logo=pug&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=white" />
@@ -63,7 +63,7 @@
 
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas&logoColor=white" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img alt="Numpy" src="https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img alt="Numpy" src="https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy&logoColor=white" />
 
   <br>
 
