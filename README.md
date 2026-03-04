@@ -29,7 +29,7 @@
 
 <h2> ⚙ Tech Stack </h2>
 <div>
-  <img alt="C++" src="https://img.shields.io/badge/-cpp-black?style=flat-square&logo=openjdk&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00000000?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin&logoColor=white" />
