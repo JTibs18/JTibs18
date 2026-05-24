@@ -10,6 +10,7 @@
 <h2> 😊 About Me </h2>
   <div>
     <p> 👾 Full Stack Software Engineer at Levanta Labs </p>
+    <p> 🧩 Building brain games at <a href="https://whizgym.com"> Whizgym </a> </p>
     <p> 🏫 Graduated from Carleton University in 2022 with High Distinction</p>
     <p> 📜 Bachelor of Computer Science Honours, Minor in Business and Specialization in Mobile Computing</p>
   </div>
@@ -21,11 +22,11 @@
 <a href="https://medium.com/@jessicatiberio" target="_blank">
   <img alt="Medium" src="https://img.shields.io/badge/medium-ffffff.svg?&style=for-the-badge&logo=medium&logoColor=black" />
 </a>
-<a href="https://github.com/JessicaTiberio" target="_blank">
-  <img alt="Github" src="https://img.shields.io/badge/GitHub-000000.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-</a>
 <a href="https://leetcode.com/JTibs18/" target="_blank">
   <img alt="Leetcode" src="https://img.shields.io/badge/Leetcode-f89f1b.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+<a href="https://whizgym.com" target="_blank">
+  <img alt="Whizgym logo" src="./whizgym-badge.svg" />
 </a>
 
 <h2> ⚙ Tech Stack </h2>
