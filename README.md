@@ -9,6 +9,7 @@
 
 <h2> 😊 About Me </h2>
   <div>
+    <p> 👾 Full Stack Software Engineer at Levanta Labs </p>
     <p> 🏫 Graduated from Carleton University in 2022 with High Distinction</p>
     <p> 📜 Bachelor of Computer Science Honours, Minor in Business and Specialization in Mobile Computing</p>
   </div>
